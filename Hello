@@ -1,1 +1,3 @@
 Console.Write("Hello");
+
+Console.Write("Hello 2");
